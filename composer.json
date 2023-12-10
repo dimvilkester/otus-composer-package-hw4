@@ -1,11 +1,11 @@
 {
-    "name": "ddushinov/otus-composer-package-hw4",
+    "name": "dimvilkester/otus-composer-package-hw4",
     "description": "Otus. Learning composer. Make package",
     "type": "library",
     "license": "",
     "autoload": {
         "psr-4": {
-            "Ddushinov\\OtusComposerPackageHw4\\": "src"
+            "Dimvilkester\\OtusComposerPackageHw4\\": "src"
         }
     },
     "authors": [
