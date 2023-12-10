@@ -2,7 +2,7 @@
     "name": "dimvilkester/otus-composer-package-hw4",
     "description": "Otus. Learning composer. Make package",
     "type": "library",
-    "license": "",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Dimvilkester\\OtusComposerPackageHw4\\": "src"

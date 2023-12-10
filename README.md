@@ -17,6 +17,6 @@ composer require dimvilkester/otus-composer-package-hw4
 
 ## Использование
 ```php
-$processorStr = new \Ddushinov\OtusComposerPackageHw4\ProcessorString();
+$processorStr = new \Dimvilkester\OtusComposerPackageHw4\ProcessorString();
 echo $processorStr->strLen('test');
 ```
