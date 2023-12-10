@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": "^8.2"
+        "php": "^7.0"
     },
     "scripts": {
         "test": "composer -v"
